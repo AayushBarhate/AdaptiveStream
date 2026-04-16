@@ -1,6 +1,6 @@
 # AdaptiveStream
 
-Capstone project for Big Data Analytics — adaptive windowing for Spark Structured Streaming using bytecode instrumentation and LSTM-based rate prediction.
+Capstone project for Big Data Analytics -- adaptive windowing for Spark Structured Streaming using bytecode instrumentation and LSTM-based rate prediction.
 
 ## What this does
 
